@@ -1,0 +1,178 @@
+﻿@using System.Data;
+@using excel2vcard.Models ;
+
+@model excel2vcard.Models.returned
+
+@{
+    ViewBag.Title = "ImportExcel";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!--[if !IE]><!-->
+<style type="text/css">
+    /* Generic Styling, for Desktops/Laptops */
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    /* Zebra striping */
+    tr:nth-of-type(odd) {
+        background: #eee;
+    }
+
+    th {
+        background: #333;
+        color: white;
+        font-weight: bold;
+    }
+
+    td, th {
+        padding: 6px;
+        border: 1px solid #ccc;
+        text-align: left;
+    }
+    /*
+    Max width before this PARTICULAR table gets nasty
+    This query will take effect for any screen smaller than 760px
+    and also iPads specifically.
+    */
+    @@media only screen and (max-width: 760px), (min-device-width: 768px) and (max-device-width: 1024px) {
+
+        /* Force table to not be like tables anymore */
+        table, thead, tbody, th, td, tr {
+            display: block;
+        }
+
+            /* Hide table headers (but not display: none;, for accessibility) */
+            thead tr {
+                position: absolute;
+                top: -9999px;
+                left: -9999px;
+            }
+
+        tr {
+            border: 1px solid #ccc;
+        }
+
+        td {
+            /* Behave  like a "row" */
+            border: none;
+            border-bottom: 1px solid #eee;
+            position: relative;
+            padding-left: 50%;
+        }
+
+            td:before {
+                /* Now like a table header */
+                position: absolute;
+                /* Top/left values mimic padding */
+                top: 6px;
+                left: 6px;
+                width: 45%;
+                padding-right: 10px;
+                white-space: nowrap;
+            }
+
+            /*
+     Label the data
+     */
+            td:before {
+                content: attr(data-title);
+            }
+    }
+
+    .bor-red {
+    }
+</style>
+
+<!--<![endif]-->
+
+<h2 class="text-center h2-heading">import</h2>
+
+
+@using (Html.BeginForm("Contact_v", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @class = " w-80 m-auto", @style = "width:80%" }))
+{
+    <table class="table table-bordered table-striped table-responsive " style="margin:auto; width:45%; border:none;display:flex;">
+        <tr><td>browse</td><td><input type="file" id="FileUpload1" name="FileUpload1" /></td></tr>
+        <tr><td colspan="2"><input class="btn btn-block btn-info m-auto" type="submit" id="Submit" name="Submit" value="Add" /></td></tr>
+    </table>
+}
+
+<div>
+    <table class="table table-bordered table-striped table-responsive dataTable">
+
+        @if (ViewBag.Data != null)
+        {
+            <thead>
+            <th></th>
+            @foreach (DataColumn column in (ViewBag.Data as System.Data.DataTable).Columns)
+                {
+                <th>@column.ColumnName.ToUpper()</th>
+            }
+            </thead>
+            if ((ViewBag.Data as System.Data.DataTable).Rows.Count > 0)
+            {
+                int i = 1;
+                foreach (DataRow dr in (ViewBag.Data as System.Data.DataTable).Rows)
+                {
+
+                    if (Model.ErrorList.Contains(i))
+                    {
+                        <tr>
+                            <td class=" alert-danger">@i</td>
+                            @foreach (DataColumn column in (ViewBag.Data as System.Data.DataTable).Columns)
+                            {
+                                <td class=" alert-danger" data-title='@column.ColumnName'>
+                                    @dr[column].ToString()
+                                </td>
+                            }
+                        </tr>
+                    }
+                    else
+                    {
+                        <tr>
+                            <td>@i</td>
+                            @foreach (DataColumn column in (ViewBag.Data as System.Data.DataTable).Columns)
+                            {
+                                <td data-title='@column.ColumnName'>
+                                    @dr[column].ToString()
+                                </td>
+                            }
+                        </tr>
+
+                    }
+                    i++;
+                }
+
+            }
+            else
+            {
+                int count = (ViewBag.Data as System.Data.DataTable).Columns.Count;
+                <tr>
+
+                    <td colspan='@count' style="color:red;">
+
+                        No Data Found.
+                    </td>
+
+
+
+                </tr>
+
+            }
+
+        }
+        else
+        {
+            if (ViewBag.Error != null)
+            {
+                <tr>
+                    <td style="color:red;">
+
+                        @(ViewBag.Error != null ? ViewBag.Error.ToString() : "")
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+</div> 
