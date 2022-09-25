@@ -1,0 +1,390 @@
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\obj\Debug\excel2vcard.csprojResolveAssemblyReference.cache
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\ApplicationInsights.config
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\csc.exe
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\csc.exe.config
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\csc.rsp
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\csi.exe
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\csi.rsp
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\System.AppContext.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\System.Collections.Immutable.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\System.IO.FileSystem.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\vbc.exe
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\vbc.exe.config
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\vbc.rsp
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\VBCSCompiler.exe
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\roslyn\VBCSCompiler.exe.config
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\excel2vcard.dll.config
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\excel2vcard.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\excel2vcard.pdb
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Antlr3.Runtime.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\EntityFramework.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\EntityFramework.SqlServer.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.Web.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.WindowsServer.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.ApplicationInsights.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Google.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Web.Infrastructure.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Newtonsoft.Json.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Owin.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.Helpers.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.Mvc.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.Optimization.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.Razor.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.WebPages.Deployment.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.WebPages.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.WebPages.Razor.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\WebGrease.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.Helpers.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.Mvc.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.Optimization.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.Razor.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.WebPages.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.WebPages.Deployment.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\System.Web.WebPages.Razor.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Antlr3.Runtime.pdb
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Newtonsoft.Json.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\EntityFramework.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\EntityFramework.SqlServer.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Google.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.ApplicationInsights.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.WindowsServer.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.Web.xml
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\obj\Debug\excel2vcard.dll
+c:\users\msh\documents\visual studio 2017\Projects\excel2vcard\excel2vcard\obj\Debug\excel2vcard.pdb
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\ApplicationInsights.config
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\csc.exe
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\csc.exe.config
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\csc.rsp
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\csi.exe
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\csi.rsp
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\System.AppContext.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\System.Collections.Immutable.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\System.IO.FileSystem.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\System.Reflection.Metadata.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\vbc.exe
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\vbc.exe.config
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\vbc.rsp
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\VBCSCompiler.exe
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\roslyn\VBCSCompiler.exe.config
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\excel2vcard.dll.config
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\excel2vcard.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\excel2vcard.pdb
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Antlr3.Runtime.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\EntityFramework.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\EntityFramework.SqlServer.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.Agent.Intercept.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.DependencyCollector.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.Web.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.WindowsServer.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.ApplicationInsights.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.Core.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Cookies.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Facebook.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Google.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.OAuth.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Twitter.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Web.Infrastructure.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Newtonsoft.Json.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Owin.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.Helpers.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.Mvc.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.Optimization.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.Razor.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.WebPages.Deployment.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.WebPages.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.WebPages.Razor.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\WebGrease.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.Helpers.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.Mvc.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.Optimization.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.Razor.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.WebPages.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.WebPages.Deployment.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\System.Web.WebPages.Razor.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Antlr3.Runtime.pdb
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Newtonsoft.Json.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\EntityFramework.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\EntityFramework.SqlServer.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.Core.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Facebook.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Cookies.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.OAuth.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Google.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Twitter.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.ApplicationInsights.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.DependencyCollector.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.WindowsServer.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\bin\Microsoft.AI.Web.xml
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\obj\Debug\excel2vcard.csproj.AssemblyReference.cache
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\obj\Debug\excel2vcard.csproj.CoreCompileInputs.cache
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\obj\Debug\excel2vcard.csproj.CopyComplete
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\obj\Debug\excel2vcard.dll
+G:\myfiles\current work\Projects\excel2vcard\excel2vcard\obj\Debug\excel2vcard.pdb
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\ApplicationInsights.config
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\csc.exe
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\csc.exe.config
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\csc.rsp
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\csi.exe
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\csi.rsp
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\System.AppContext.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\vbc.exe
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\vbc.exe.config
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\vbc.rsp
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\excel2vcard.dll.config
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\excel2vcard.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\excel2vcard.pdb
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Antlr3.Runtime.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\EntityFramework.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\EntityFramework.SqlServer.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AI.Web.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Newtonsoft.Json.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Owin.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.Helpers.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.Mvc.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.Optimization.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.Razor.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.WebPages.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\WebGrease.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.Helpers.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.Mvc.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.Optimization.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.Razor.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.WebPages.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Antlr3.Runtime.pdb
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Newtonsoft.Json.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\EntityFramework.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\EntityFramework.SqlServer.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\bin\Microsoft.AI.Web.xml
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\obj\Debug\excel2vcard.csproj.AssemblyReference.cache
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\obj\Debug\excel2vcard.csproj.CoreCompileInputs.cache
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\obj\Debug\excel2vcard.csproj.CopyComplete
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\obj\Debug\excel2vcard.dll
+C:\Users\Eng_Gamaladdin\Documents\excel2vcard\excel2vcard\obj\Debug\excel2vcard.pdb
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\ApplicationInsights.config
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\csc.exe
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\csc.exe.config
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\csc.rsp
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\csi.exe
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\csi.rsp
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\System.AppContext.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\vbc.exe
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\vbc.exe.config
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\vbc.rsp
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\excel2vcard.dll.config
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\excel2vcard.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\excel2vcard.pdb
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Antlr3.Runtime.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\EntityFramework.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\EntityFramework.SqlServer.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AI.Web.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Newtonsoft.Json.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Owin.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.Helpers.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.Mvc.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.Optimization.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.Razor.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.WebPages.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\WebGrease.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.Helpers.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.Mvc.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.Optimization.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.Razor.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.WebPages.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Antlr3.Runtime.pdb
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Newtonsoft.Json.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\EntityFramework.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\EntityFramework.SqlServer.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\bin\Microsoft.AI.Web.xml
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\obj\Debug\excel2vcard.csproj.AssemblyReference.cache
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\obj\Debug\excel2vcard.csproj.CoreCompileInputs.cache
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\obj\Debug\excel2vcard.csproj.CopyComplete
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\obj\Debug\excel2vcard.dll
+C:\Users\Eng_Gamaladdin\source\repos\AdAlshami\Excel-to-VCF-Contacts\excel2vcard\obj\Debug\excel2vcard.pdb
