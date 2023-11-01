@@ -1,3 +1,5 @@
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+
 # Excel-to-VCF-Contacts
 Convert Excel sheet to VCF format (for contacts especially in mobiles)
 the file to be coverted shuld mach the excel file in the content folder
